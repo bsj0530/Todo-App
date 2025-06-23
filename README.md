@@ -14,7 +14,7 @@ HTML, CSS, JavaScript를 사용하여 구현했으며, 브라우저 로컬 스�
 - **JavaScript**: 동작 구현 및 이벤트 처리
 
 ## 화면 예시
-
+![screenshot](./screenshot.png)
 
 ## 추후 수정할 부분
 - 앱상에서 열었을때 크기 유지
